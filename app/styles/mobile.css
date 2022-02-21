@@ -1,0 +1,13 @@
+.movie-details {
+  display: block;
+  grid-template-columns: none;
+}
+
+.desktop-link {
+  display: none;
+}
+
+.mobile-link {
+  display: block;
+  margin-bottom: 30px;
+}

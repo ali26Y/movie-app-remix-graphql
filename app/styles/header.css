@@ -1,0 +1,16 @@
+.header-container {
+  text-align: center;
+}
+
+.main-title {
+  text-align: right;
+  font-weight: bold;
+  font-size: 2.5em;
+  text-align: center;
+}
+
+.hero {
+  width: 100%;
+  max-width: 600px;
+  border-radius: 50px;
+}

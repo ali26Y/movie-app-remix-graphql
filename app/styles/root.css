@@ -1,0 +1,12 @@
+body {
+  font-family: Tahoma, sans-serif;
+  line-height: "1.4";
+  background-color: #000000;
+  color: #fff;
+}
+
+.RootWrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
